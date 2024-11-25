@@ -1,8 +1,10 @@
 # Viva-shortcuts
 Una repo di Apple Shortcuts che interagiscono con il registro elettronico ClasseViva di Spiaggiari.
-Tutte i comandi rapidi possono essere richiamati da siri.
+
+Tutti i comandi rapidi possono essere richiamati da siri.
 # Shortcuts
 - Che compiti ho per domani?
+  
 Elenca i risultati in agenda per l’indomani, se la materia non è specificata verrà mostrato il nome dell’insegnante.
 ```
 Per domani hai:
@@ -12,6 +14,7 @@ LINGUA E LETTERATURA ITALIANA, pg 133 Svolgere il riassunto del racconto
 ![IMG_2022](https://github.com/user-attachments/assets/009a4ec1-a4e7-4985-81b9-587aedeb622a)
 
 - Media
+
 Riporta la media delle materie e media generale, nel caso in cui la scuola non ha abilitato la visualizzazione della media.
 ```
 TECNOLOGIE INFORMATICHE: 7.50
@@ -24,6 +27,7 @@ Media generale: 7,665
 ![IMG_2023](https://github.com/user-attachments/assets/cb6bfe89-57d6-4269-8ef7-0fa7bf60d5aa)
 
 - Che voti devo prendere per arrivare a [voto]?
+
 Selezionando una materia e digitando il voto desiderato, riporta il/i voti che devi avere per arrivare al voto desiderato.
 ```
 Devi prendere 2 voti da 8,5
@@ -45,12 +49,14 @@ Permette di usare il [file di accesso](https://github.com/GoldenMelky/Viva-short
 >[username]
 
 Nome utente del tuo account ClasseViva (esempio A12345678B)
+
 Si può saltare nel caso si usi il file di accesso
 
 >Password
 >[password]
 
 Password del tuo account ClasseViva
+
 Si può saltare nel caso si usi il file di accesso
 # Configurazione manuale
 Per configurare manualmente nome utente, password e file di accesso basta modificare i blocchi di testo.
