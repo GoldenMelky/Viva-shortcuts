@@ -38,7 +38,7 @@ Quando importi il comando rapido, ti viene chiesto di configurare il comando.
 >Vuoi usare file di accesso?
 >[si o no]
 
-Permette di usare il [file di accesso](https://github.com/GoldenMelky/Viva-shortcuts/edit/main/README.md#file-di-accesso)
+Permette di usare il [file di accesso](https://github.com/GoldenMelky/Viva-shortcuts/tree/main/README.md#file-di-accesso)
 
 >Nome utente
 >[username]
